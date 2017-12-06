@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jboss-outreach/rake-tasks.svg?branch=master)](https://travis-ci.org/jboss-outreach/rake-tasks)
+
 # rake-tasks
 
 Short coding tasks for all projects
